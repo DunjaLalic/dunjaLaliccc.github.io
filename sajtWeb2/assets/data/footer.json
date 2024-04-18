@@ -1,0 +1,29 @@
+{
+    "InGoodHands": ["About us","Dictionary Cross Training","Give the gift of Picsil","Returns"],
+    "Culture": ["Athletes","News","MY PICSIL","Want to become a distributor?"],
+    "Access": ["B2B Access - Distributors","Affiliates","MY PICSIL","Trustpilot"],
+    "social": 
+    [
+        {
+            "icon": "fa fa-facebook-f",
+            "href": "https://www.facebook.com/?locale=sr_RS"
+        },
+        {
+            "icon": "fa fa-twitter",
+            "href": "https://twitter.com/?lang=sr"
+        },
+        {
+            "icon": "fa fa-instagram",
+            "href": "https://www.instagram.com/"
+        },
+        {
+            "icon": "fa fa-linkedin",
+            "href": "https://rs.linkedin.com/"
+        },
+        {
+            "icon": "fa fa-youtube-play",
+            "href": "https://www.youtube.com/"
+        }
+    ]
+
+}

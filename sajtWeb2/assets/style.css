@@ -1,0 +1,229 @@
+.mln{
+  margin-right: 50px;
+}
+.fw{
+  font-size: 18px;
+}
+
+.icon{
+  font-size: 130%!important;
+}
+
+.tt{
+  position: absolute;
+  top: 20%;
+  left: 12%;
+}
+
+.n{
+position: absolute;
+top: 65%;
+left: 38%;
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+width: 50%;
+}
+
+.f{
+  background-color: #000000;
+}
+
+ul {
+list-style: none;
+padding: 0;
+margin: 0;
+}
+
+ul li {
+margin-bottom: 15px;
+font-size: 18px; 
+}
+
+
+ul li a {
+text-decoration: none; 
+color: #878787; 
+}
+
+
+ul li a:hover {
+text-decoration: none;
+color: #c8000a;
+}
+
+.c{
+color: #c8000a;
+}
+
+.dil{
+display: inline;
+}
+
+.ml{
+  margin-left: 25px;
+}
+
+.dn{
+display:none;
+}
+
+.h {
+text-decoration: underline;
+font-size: 17px;
+}
+
+.h:hover{
+text-decoration: none;
+color: #c8000a;
+}
+
+.custom-input:focus {
+border-color: #f22222!important; 
+box-shadow: 0 0 5px #f22222!important; 
+}
+
+.form-check-label {
+white-space: nowrap;
+font-size: 20px;
+}
+
+.product-item {
+position: relative;
+}
+
+.product-image {
+position: relative;
+}
+
+.product-image:hover::before {
+content: '';
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background-color: rgba(0, 0, 0, 0.5);
+z-index: 1;
+}
+
+.quick-shop-button {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+z-index: 2;
+opacity: 0; 
+transition: opacity 0.3s;
+}
+
+.product-image:hover .quick-shop-button {
+opacity: 1;
+}
+
+.cont{
+height: 100vh;
+}
+
+.imgTable{
+max-width: 100px; 
+max-height: 100px;
+background-color: red!important;
+}
+
+.wh{
+max-width: 20%;
+max-height: 20%;
+}
+
+.Reg {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+}
+
+.overlay-bg {
+  background-color: rgba(0, 0, 0, 0.5); 
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.regBlock {
+  width: 40%;
+  height: 70vh; 
+  overflow-y: auto;
+  border-radius: 20px;
+  background-color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  z-index: 10000; 
+}
+
+.Reg .regBlock .scsJoin {
+  text-align: center;
+  font-weight: 800;
+  color: #fff;
+  padding: 10px;
+  font-size: 15px;
+  background-color: #6cee98;
+  margin-bottom: 5px;
+}
+
+@media (max-width: 1024px) {
+.n h6 {
+    font-size: 15px; 
+}
+
+.n h2 {
+    font-size: 20px;
+}
+
+.n{
+  top: 60%;
+}
+}
+
+@media (max-width: 768px) {
+.n h6 {
+    font-size: 10px; 
+}
+.regBlock{
+  width: 50%;
+  height: 70vh; 
+}
+.n h2 {
+    font-size: 15px;
+}
+
+.n{
+  top: 50%;
+}
+}
+
+@media (max-width: 426px) {
+  .regBlock{
+    width: 80%;
+  }
+}
+
+@media (max-width: 320px) {
+.n h6 {
+    font-size: 8px; 
+}
+
+.n h2 {
+    font-size: 10px; 
+}
+
+.n{
+  top: 45%;
+}
+}

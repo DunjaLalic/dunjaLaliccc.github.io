@@ -1,0 +1,18 @@
+[
+    {
+        "value": "low",
+        "name": "Price low to high"
+    },
+    {
+        "value": "high",
+        "name": "Price high to low"
+    },
+    {
+        "value": "asc",
+        "name": "By name ascending"
+    },
+    {
+        "value": "desc",
+        "name": "By name descending"
+    }
+]

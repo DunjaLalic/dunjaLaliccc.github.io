@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "name": "Sphinex rope",
+        "price": {
+            "new": 25,
+            "old": 30
+        },
+        "img": {
+            "src": "rope.JPG",
+            "alt": "rope-sphinx"
+        },
+        "categoryId": 5,
+        "genderId": 3,
+        "stars": 4
+    },
+    {
+        "id": 2,
+        "name": "TACTICAL WATERPROOF BACKPACK 45L",
+        "price": {
+            "new": 50,
+            "old": 30
+        },
+        "img": {
+            "src": "backpack.JPG",
+            "alt": "Backpack-tactical"
+        },
+        "categoryId": 4,
+        "genderId": 3,
+        "stars": 5
+    },
+    {
+        "id": 3,
+        "name": "MAVERICT TACTICAL BACKPACK 40L",
+        "price": {
+            "new": 65,
+            "old": 30
+        },
+        "img": {
+            "src": "backpack1.JPG",
+            "alt": "Backpack-maverict"
+        },
+        "categoryId": 4,
+        "genderId": 3,
+        "stars": 3
+    },
+    {
+        "id": 4,
+        "name": "BACKPACK URBAN",
+        "price": {
+            "new": 27,
+            "old": 30
+        },
+        "img": {
+            "src": "backpack2.JPG",
+            "alt": "Backpack-urban"
+        },
+        "categoryId": 4,
+        "genderId": 3,
+        "stars": 2
+    },
+    {
+        "id": 5,
+        "name": "DUFFLE BACKPACK",
+        "price": {
+            "new": 38,
+            "old": 30
+        },
+        "img": {
+            "src": "backpack3.JPG",
+            "alt": "Backpack-duffle"
+        },
+        "categoryId": 4,
+        "genderId": 3,
+        "stars": 3
+    },
+    {
+        "id": 6,
+        "name": "WEIGHTLIFTING BELT",
+        "price": {
+            "new": 105,
+            "old": 30
+        },
+        "img": {
+            "src": "belt1.JPG",
+            "alt": "wl-belt"
+        },
+        "categoryId": 3,
+        "genderId": 3,
+        "stars": 5
+    },
+    {
+        "id": 7,
+        "name": "WEIGHTLIFTING BELT",
+        "price": {
+            "new": 15,
+            "old": 30
+        },
+        "img": {
+            "src": "belt2.JPG",
+            "alt": "wl-belt"
+        },
+        "categoryId": 3,
+        "genderId": 3,
+        "stars": 5
+    },
+    {
+        "id": 8,
+        "name": "FALCON GRIPS",
+        "price": {
+            "new": 34,
+            "old": 30
+        },
+        "img": {
+            "src": "grips2.JPG",
+            "alt": "falcon-grips"
+        },
+        "categoryId": 1,
+        "genderId": 3,
+        "stars": 5
+    },
+    {
+        "id": 9,
+        "name": "PHOENIX GRIPS NEW EDITION",
+        "price": {
+            "new": 75,
+            "old": 30
+        },
+        "img": {
+            "src": "grips3.JPG",
+            "alt": "phoenix-grips"
+        },
+        "categoryId": 1,
+        "genderId": 3,
+        "stars": 5
+    },
+    {
+        "id": 10,
+        "name": "CONDOR GRIPS",
+        "price": {
+            "new": 83,
+            "old": 30
+        },
+        "img": {
+            "src": "grips4.JPG",
+            "alt": "condor-grips"
+        },
+        "categoryId": 1,
+        "genderId": 3,
+        "stars": 4
+    },
+    {
+        "id": 11,
+        "name": "RX GRIPS H3",
+        "price": {
+            "new": 44,
+            "old": 30
+        },
+        "img": {
+            "src": "grips5.JPG",
+            "alt": "RX-H3-grips"
+        },
+        "categoryId": 1,
+        "genderId": 3,
+        "stars": 4
+    },
+    {
+        "id": 12,
+        "name": "HEX TECH 7MM KNEE PADS",
+        "price": {
+            "new": 39,
+            "old": 30
+        },
+        "img": {
+            "src": "kne1.JPG",
+            "alt": "knee-pads-7mm"
+        },
+        "categoryId": 2,
+        "genderId": 3,
+        "stars": 4
+    },
+    {
+        "id": 13,
+        "name": "HEX TECH 5MM KNEE PADS",
+        "price": {
+            "new": 17,
+            "old": 30
+        },
+        "img": {
+            "src": "kne2.JPG",
+            "alt": "knee-pads-5mm"
+        },
+        "categoryId": 2,
+        "genderId": 3,
+        "stars": 4
+    },
+    {
+        "id": 14,
+        "name": "HEX TECH 7MM KNEE PADS",
+        "price": {
+            "new": 26,
+            "old": 30
+        },
+        "img": {
+            "src": "kne3.JPG",
+            "alt": "knee-pads-7mm"
+        },
+        "categoryId": 2,
+        "genderId": 3,
+        "stars": 4
+    },
+    {
+        "id": 15,
+        "name": "SPORTS LEGGINGS WOMAN CORE",
+        "price": {
+            "new": 32,
+            "old": 30
+        },
+        "img": {
+            "src": "leggings1.JPG",
+            "alt": "leggings-core"
+        },
+        "categoryId": 8,
+        "genderId": 1,
+        "stars": 4
+    },
+    {
+        "id": 16,
+        "name": "SPORTS LEGGINGS WOMAN CORE",
+        "price": {
+            "new": 78,
+            "old": 30
+        },
+        "img": {
+            "src": "leggings2.JPG",
+            "alt": "leggings-core"
+        },
+        "categoryId": 8,
+        "genderId": 1,
+        "stars": 4
+    },
+    {
+        "id": 17,
+        "name": "LEGGINGS CORE WOMAN",
+        "price": {
+            "new": 45,
+            "old": 30
+        },
+        "img": {
+            "src": "leggings3.JPG",
+            "alt": "leggings-core"
+        },
+        "categoryId": 8,
+        "genderId": 1,
+        "stars": 4
+    },
+    {
+        "id": 18,
+        "name": "JUMP ROPE FAST ANNA ROPE",
+        "price": {
+            "new": 63,
+            "old": 30
+        },
+        "img": {
+            "src": "rope1.JPG",
+            "alt": "rope-fast"
+        },
+        "categoryId": 5,
+        "genderId": 3,
+        "stars": 4
+    },
+    {
+        "id": 19,
+        "name": "SPHINX ROPE",
+        "price": {
+            "new": 25,
+            "old": 30
+        },
+        "img": {
+            "src": "rope3.JPG",
+            "alt": "rope-sphinx"
+        },
+        "categoryId": 5,
+        "genderId": 3,
+        "stars": 4
+    },
+    {
+        "id": 20,
+        "name": "HEAVY JUMP ROPE",
+        "price": {
+            "new": 108,
+            "old": 30
+        },
+        "img": {
+            "src": "rope4.JPG",
+            "alt": "rope-heavy"
+        },
+        "categoryId": 5,
+        "genderId": 3,
+        "stars": 4
+    },
+    {
+        "id": 21,
+        "name": "2.5MM CABLES - 3M",
+        "price": {
+            "new": 18,
+            "old": 30
+        },
+        "img": {
+            "src": "rope5.JPG",
+            "alt": "cables-rope"
+        },
+        "categoryId": 5,
+        "genderId": 3,
+        "stars": 4
+    },
+    {
+        "id": 22,
+        "name": "SHORTS FROM WOMAN CORE",
+        "price": {
+            "new": 35,
+            "old": 30
+        },
+        "img": {
+            "src": "shorts1.JPG",
+            "alt": "women-shorts"
+        },
+        "categoryId": 7,
+        "genderId": 1,
+        "stars": 4
+    },
+    {
+        "id": 23,
+        "name": "SHORTS WITH MEN'S PREMIUM 2 IN 1 COMPRESSION LEGGING",
+        "price": {
+            "new": 44,
+            "old": 30
+        },
+        "img": {
+            "src": "shorts3.JPG",
+            "alt": "man-shorts"
+        },
+        "categoryId": 7,
+        "genderId": 2,
+        "stars": 4
+    },
+    {
+        "id": 24,
+        "name": "SHORTS PREMIUM MAN",
+        "price": {
+            "new": 43,
+            "old": 30
+        },
+        "img": {
+            "src": "shorts4.JPG",
+            "alt": "man-shorts"
+        },
+        "categoryId": 7,
+        "genderId": 2,
+        "stars": 4
+    },
+    {
+        "id": 25,
+        "name": "SHORTS PREMIUM MAN",
+        "price": {
+            "new": 52,
+            "old": 30
+        },
+        "img": {
+            "src": "shorts5.JPG",
+            "alt": "man-shorts"
+        },
+        "categoryId": 7,
+        "genderId": 2,
+        "stars": 4
+    },
+    {
+        "id": 26,
+        "name": "TANK MAN T-SHIRT",
+        "price": {
+            "new": 32,
+            "old": 30
+        },
+        "img": {
+            "src": "t-shirt1.JPG",
+            "alt": "man-t-shirt"
+        },
+        "categoryId": 6,
+        "genderId": 2,
+        "stars": 4
+    },
+    {
+        "id": 27,
+        "name": "MEN'S SPORT T-SHIRT SHORT SLEEVE TEE CORE",
+        "price": {
+            "new": 39,
+            "old": 30
+        },
+        "img": {
+            "src": "t-shirt2.JPG",
+            "alt": "man-t-shirt"
+        },
+        "categoryId": 6,
+        "genderId": 2,
+        "stars": 4
+    },
+    {
+        "id": 28,
+        "name": "TRAINING TANK MAN TANK CORE",
+        "price": {
+            "new": 37,
+            "old": 30
+        },
+        "img": {
+            "src": "t-shirt3.JPG",
+            "alt": "man-t-shirt"
+        },
+        "categoryId": 6,
+        "genderId": 2,
+        "stars": 4
+    },
+    {
+        "id": 29,
+        "name": "SPORTS T-SHIRT FOR WOMAN CROP TOP",
+        "price": {
+            "new": 43,
+            "old": 30
+        },
+        "img": {
+            "src": "t-shirt4.JPG",
+            "alt": "woman-t-shirt"
+        },
+        "categoryId": 6,
+        "genderId": 1,
+        "stars": 4
+    },
+    {
+        "id": 30,
+        "name": "SPORTS T-SHIRT FOR WOMAN SHORT SLEEVE",
+        "price": {
+            "new": 34,
+            "old": 30
+        },
+        "img": {
+            "src": "t-shirt5.JPG",
+            "alt": "woman-t-shirt"
+        },
+        "categoryId": 6,
+        "genderId": 1,
+        "stars": 4
+    }
+]

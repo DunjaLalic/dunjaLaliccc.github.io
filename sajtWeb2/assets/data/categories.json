@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Grips"
+    },
+    {
+        "id": 2,
+        "name": "Knee pads"
+    },
+    {
+        "id": 3,
+        "name": "Lumbal belt"
+    },
+    {
+        "id": 4,
+        "name": "Backpacks"
+    },
+    {
+        "id": 5,
+        "name": "Rope"
+    },
+    {
+        "id": 6,
+        "name": "T-shirt"
+    },
+    {
+        "id": 7,
+        "name": "Shorts"
+    },
+    {
+        "id": 8,
+        "name": "Leggings"
+    }
+]
